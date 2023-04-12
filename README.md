@@ -1,6 +1,6 @@
 # GPIJALANSUCI.OR.ID
 
-
+![Screenshot1](https://github.com/yusufmambrasar/gpijalansuci/blob/main/screenshots/screenshot1.png?raw=true)
 
 Portal Web GPJ Jalan Suci https://www.gpijalansuci.or.id/
 
