@@ -10,6 +10,8 @@
         /*rtl:Amiri, Georgia, "Times New Roman", serif*/
     ;
     font-size: 2.25rem;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .blog-header-logo:hover {

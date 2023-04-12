@@ -23,12 +23,6 @@ class Filters extends BaseConfig
         'honeypot'          => Honeypot::class,
         'invalidchars'      => InvalidChars::class,
         'secureheaders'     => SecureHeaders::class,
-        'authsuperadmin'    => \App\Filters\AuthSuperAdmin::class,
-        'authadmin'         => \App\Filters\AuthAdmin::class,
-        'authoperator'      => \App\Filters\AuthOperator::class,
-        'authteacher'       => \App\Filters\AuthTeacher::class,
-        'authstudent'       => \App\Filters\AuthStudent::class,
-        'authnoone'         => \App\Filters\AuthNoone::class,
     ];
 
     /**
