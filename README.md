@@ -1,6 +1,8 @@
-# GPIJALANSUCI.ORG
+# GPIJALANSUCI.OR.ID
 
-Portal Web GPJ Jalan Suci https://www.gpijalansuci.org/
+
+
+Portal Web GPJ Jalan Suci https://www.gpijalansuci.or.id/
 
 ## Setup
 
